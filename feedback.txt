@@ -1,0 +1,10 @@
+Feedback from Mark Nederhof at 07/05/2014 23:45:
+
+Very well-written and informative report, discussing in detail how the solution was derived. A bonus is the discussion of the degree of ambiguity. You are correct here:
+one would expect several parse trees in the presence of syntactic ambiguity.
+
+However, you never motivate why you deviated from the assignment, which suggested a good way to model subcategorisation, consistent with what was treated in lectures and tutorials. This is a lost opportunity to become familiar with general subcategorisation, which is an important issue of modern grammar design.
+
+With only the distinction between transitive and intransitive, you cannot distinguish the various kinds of allowable arguments and your grammar accepts all of: "Wallace knows Gromit eats cheese" (correct), "Wallace knows cheese" (questionable and probably not intended), "Wallace eats Gromit eats cheese", and even "Wallace barks Gromit eats cheese" (the latter two being definitely wrong).
+
+Altogether, very nice report and the grammar is elegant in many respects, but it falls short of the objectives where subcategorisation is concerned.
